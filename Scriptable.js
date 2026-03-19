@@ -2,11 +2,11 @@
 // AVATAR, TIMESTAMP AND SIDEBAR ADDITION BY PALS (Fulmine#1917)
 
 //INPUT SYSTEM ID BELOW, SURROUNDED BY DOUBLE QUOTES
-const systemID = ""
+const systemID = "pwxws"
 
 //INCLUDE TOKEN BELOW (found by running pk;token) IF YOUR SYSTEM FRONT INFORMATION IS PRIVATE
 //MAKE SURE IT IS SURROUNDED BY DOUBLE QUOTES
-const token = "yourtoken";
+const token = "soZ1NunVrhwTp4fnLHlGiWbY8im2LSyzCKlORjyz/oi3IPOCN6Lprq+5dVCFSvPw";
 
 // Use Display Names
 // set true if you would like to use display names instead of names where available. Set to false to only use names.
